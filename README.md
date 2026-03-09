@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vatsala-singh
 - 👀 I’m interested in Software Development, Artificial Intelligence and Data Science
-- 🌱 I’m currently working at Walmart Global Tech as a Software Engineer
+- 🌱 I’m currently working at Oracle as a Senior Software Engineer
 - I believe in Learning by doing and hence my roadmap to learning any new skill is by it's practical application
 - I love to collaborate, since in my opinion we can achieve great things if we sum up our potentials and work as a team towards solving pressing problems!
 
